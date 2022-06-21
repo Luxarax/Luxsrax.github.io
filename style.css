@@ -1,12 +1,30 @@
-<!DOCTYPE html>
-<html lang="">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-  </body>
-</html>
+body {
+  margin: 0px;
+}
+
+.topnav {
+  background-color: #3F4B6D;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+}
+
+.topnav a {
+  float:left;
+  color:white;
+  text-align: center;
+  text-decoration:none;
+  font-family: "Courier New";
+  font-size: 30px;
+  padding: 10px;
+}
+
+.logodeselect:hover {
+  background-color:#7992D6;
+  font-weight: bold;
+}
+
+.logo {
+  max-width: 261px
+}
+
