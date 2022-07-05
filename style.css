@@ -28,3 +28,13 @@ body {
   max-width: 261px
 }
 
+.format {
+  float:left;
+  color:black;
+  text-align: center;
+  text-decoration:none;
+  font-family: "Courier New";
+  font-size: 30px;
+  padding: 20px;
+}
+
