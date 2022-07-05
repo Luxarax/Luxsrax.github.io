@@ -38,3 +38,18 @@ body {
   padding: 20px;
 }
 
+.faq {
+  text-align: center;
+  padding: 20px;
+}
+
+.news {
+  color:black;
+  text-align: center;
+  text-decoration:none;
+  font-family: "Courier New";
+  font-size: 30px;
+  padding: 20px;
+}
+
+
